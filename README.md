@@ -12,6 +12,17 @@ Man muss der Nummer +34 644 51 95 23 Auf Whatsapp die Nachricht: I allow callmeb
 
 ## Aufbau
 
+VIN zum VCC des Ultraschallsensor, da er 5V benötigt
+
+Pin 18 vom ESP zum Trigger Pin des Ultraschallsensor
+
+Pin 5 vom ESP zum Echo Pin des Ultraschallsensor
+
+GND zum GND des Ultraschallsensor
+
+
+
+
 ![Schaltung](https://github.com/aaabdulkarim/ESP32_Whatsapp_Sensor/assets/117943034/d4ffe09c-ebd7-4e1d-90e5-27ea03de3410)
 
 ## Vorbedingungen:
