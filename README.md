@@ -10,11 +10,14 @@ https://api.callmebot.com/whatsapp.php?phone=[phone_number]&text=[message]&apike
 
 Man muss der Nummer +34 644 51 95 23 Auf Whatsapp die Nachricht: I allow callmebot to send me messages schicken. Dann bekommt man einen API Key.
 
+## Aufbau
+
+![Schaltung](https://github.com/aaabdulkarim/ESP32_Whatsapp_Sensor/assets/117943034/d4ffe09c-ebd7-4e1d-90e5-27ea03de3410)
+
 ## Vorbedingungen:
 Man benötigt:
 
-- CallMeBot apikey![Schaltung](https://github.com/aaabdulkarim/ESP32_Whatsapp_Sensor/assets/117943034/d4ffe09c-ebd7-4e1d-90e5-27ea03de3410)
-
+- CallMeBot apikey
 - ESP32
 - HC-SR04 Ultraschallsensor
 - UrlEncode Library 
